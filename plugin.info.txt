@@ -1,7 +1,7 @@
 base   discoursesearch
-author Gerry Weißbach
+author i-net software / Gerry Weißbach
 email  tools@inetsoftware.de
-date   2017-08-18
-name   inetdocsearch plugin
+date   2017-08-24
+name   discoursesearch plugin
 desc   Search for something on in a discourse instance
-url    https://www.inetsoftware.de
+url    https://github.com/i-net-software/dokuwiki-plugin-discoursesearch
